@@ -65,7 +65,7 @@ I started Animechan as a side project almost a year ago because of the frustrati
 
 This project is completely free to use and it's solely maintained by me, from front-end to back-end to frequent database updates, which takes a lot of my time. That is also the reason I stopped maintaining it for a long time. So to keep the API free forever, please consider donating. That would be **greatly appreciated**.
 
-<a href="https://www.buymeacoffee.com/7BdaxfI" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="174"></a>
+<a href="https://www.buymeacoffee.com/rocktimcodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="174"></a>
 
 
 
