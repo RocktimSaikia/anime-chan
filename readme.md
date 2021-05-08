@@ -36,7 +36,7 @@
 ### About
 
 
-I started Animechan as a fun side project in 2020 because I personally could not finding a single API service that provides anime quotes. So I created Animechan but left it halfway due to my internship but the traffic the API received was pretty huge. Also due to recent emails and issues where people kept on telling me to keep the service alive I recently decided to work on it. I recreated the entire API from scratch as the old API was poorly designed.
+I started Animechan as a fun side project in 2020 because I personally could not find a single API service that provides anime quotes. So I created Animechan but left it halfway due to my internship but the traffic the API received was pretty huge. Also due to recent emails and issues where people kept on telling me to keep the service alive I recently decided to work on it. I recreated the entire API from scratch as the old API was poorly designed.
 
 <br/>
 
