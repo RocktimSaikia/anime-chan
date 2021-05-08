@@ -23,7 +23,7 @@
 
 <br/>
 
-## Techstack
+### Techstack
 
 * [Koa.js](https://koajs.com/) - api is written in Koa
 * [Next.js](https://nextjs.org/) - website is created in Next
@@ -33,21 +33,23 @@
 
 <br/>
 
-## About
+### About
 
 
 I started Animechan as a fun side project in 2020 because I personally could not finding a single API service that provides anime quotes. So I created Animechan but left it halfway due to my internship but the traffic the API received was pretty huge. Also due to recent emails and issues where people kept on telling me to keep the service alive I recently decided to work on it. I recreated the entire API from scratch as the old API was poorly designed.
 
 <br/>
 
-If you use api in your projects then consider showing some support with a cup of coffee.
+### Support
+
+If you use the api in your projects then consider showing some support with a cup of coffee.
 
 <a href="https://www.buymeacoffee.com/rocktimcodes"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="35px"/></a>
 
 <br/>
 
 <!-- CONTRIBUTING -->
-## Contributing
+### Contributing
 
 - For new Anime requests please [add comments here](https://github.com/RocktimSaikia/anime-chan/issues/39).
 - And for any bug or feature requests, [Submit a issue here](https://github.com/RocktimSaikia/anime-chan/issues).
@@ -57,6 +59,6 @@ Also please see the [open issues](https://github.com/rocktimsaikia/anime-chan/is
 <br/>
 
 <!-- LICENSE -->
-## Copyright
+### Copyright
 
 Copyright © 2021 [Rocktim Saikia](https://rocktimcodes.site)
